@@ -1,0 +1,11 @@
+instance_destroy(obj_satori_base);
+maxhp = 450;
+hp = maxhp;
+speed = 0;
+alarm[0] = 120;
+alarm[1] = 260;
+alarm[3] = 265;
+bulletcount = 128;
+iterate = 0;
+interval = 2;
+spiralspeed = 1;

@@ -1,0 +1,1 @@
+audio_play_sound(bgm_stage,50,0);

@@ -1,0 +1,1 @@
+path_start(pth_blue_2,spd,path_action_stop,false);

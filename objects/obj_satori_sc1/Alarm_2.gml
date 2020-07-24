@@ -1,0 +1,1 @@
+audio_play_sound(bgm_charge,40,false);

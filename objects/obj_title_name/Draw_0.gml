@@ -1,0 +1,1 @@
+draw_sprite(spr_screen,0,-50,-30);

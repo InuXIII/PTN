@@ -1,0 +1,1 @@
+instance_create_layer(x,y+5,"inst_txt_box1",obj_txt_211111);
